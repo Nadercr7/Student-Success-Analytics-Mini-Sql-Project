@@ -84,7 +84,3 @@ Combining behavioral and academic data gives us a more complete picture — help
 
 > ✅ Created by: **Nader Mohamed**
 > 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nadermohamed7/)
-
----
-
-هل تحب أجهز لك ملفات المشروع (مثلاً SQL queries + ملف PowerPoint العرض + README.md) بصيغة Repo Template لو تحب ترفعه بنفسك؟
